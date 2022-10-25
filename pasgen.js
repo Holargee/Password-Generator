@@ -1,4 +1,4 @@
-alert("hi");
+
 function sli(){
  var a = document.getElementById("range").value;
  document.getElementById("num").innerText = a;
